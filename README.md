@@ -1,2 +1,4 @@
-# Teste_Repositorio
- Primeiro repositorio versionado
+# Teste_Repositório
+ Primeiro repositório versionado
+
+ testando e aprendendo criar repositorios 
